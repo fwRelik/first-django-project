@@ -1,0 +1,5 @@
+.idea/
+**/__pycache__
+
+project/db.sqlite3
+project/project/settings/local.py
